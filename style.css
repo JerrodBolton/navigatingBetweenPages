@@ -37,3 +37,8 @@ a:hover {
   font-size: 30px;
   color: white;
 }
+
+/* This is a element selector */
+footer{
+    padding-top: 200px;
+}
